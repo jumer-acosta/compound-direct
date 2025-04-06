@@ -22,6 +22,15 @@ After installing the dependencies, you can run the Playwright tests using the fo
 npx playwright test
 ```
 
+## How to Manually Trigger It on GitHub
+
+1. Go to your GitHub repository.
+2. Click on the **Actions** tab.
+3. Click on the workflow name (e.g., **Playwright Tests**).
+4. Hit the **Run workflow** button on the right.
+5. (Optional) Choose a branch to run the workflow on.
+6. Click **Run workflow** to start it!
+
 ## Additional Notes
 
 - Ensure you have Node.js (version 14 or higher) installed on your system.
